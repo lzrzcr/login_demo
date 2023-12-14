@@ -3,12 +3,18 @@
 本项目使用Flutter实现了登录和注册功能
 
 
-## 项目运行环境
+## 开发环境
 
     1. Flutter version 3.0.1
 
     2. Dart version 2.17.1 
 
+
+## 项目运行
+
+   1. clone代码，执行`Packages get`安装第三方包。
+   2. 在Android目录里创建key.properties文件
+   3. flutter run
 
 ## 设计思路
 
